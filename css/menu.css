@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.text-danhmucsanpham ul { margin:0; padding:0;}
+.text-danhmucsanpham ul li { list-style:none;  color: #22a248;
+    font-size: 14px;
+    text-transform: uppercase;}
+.text-danhmucsanpham ul li a:hover{ color:#000000;}
+.text-danhmucsanpham ul li a { display:block; font-size:16px; text-decoration:none; padding:5px 0 5px 10px;   color: #22a248;}
+
+.text-danhmucsanpham ul li ul {
+    border-left: 1px solid #c8c8c8;  margin-left:12px;}
+.text-danhmucsanpham ul li ul li { list-style:none; margin-bottom:5px; padding:0; display:inline; }
+.text-danhmucsanpham ul li ul li a { color: #22a248;
+    display: block;
+    font-size: 14px;
+   
+    padding: 5px 0 5px 18px;}
+
+
+
